@@ -173,8 +173,7 @@ float calculation = 104 - 17 * R;
     - U8g2
 
 3. Upload the Code
-# Authors:
-Ivona Pranjić & Marta Dasović, 2025./2026.
+
 ## Note
 
 This project is intended for educational purposes only and is not a medically certified device.
@@ -184,6 +183,6 @@ Measured values may differ from professional medical equipment.
 
 ## Authors
 
-Marta Dasović and Ivona Pranjić
+Marta Dasović and Ivona Pranjić, 2025./2026.
 
 Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
