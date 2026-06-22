@@ -31,19 +31,19 @@ The system uses an OLED display for data visualization and a buzzer for audio al
 ## Scheme
 
 <p align="center">
-  <img src="images/scheme.jpg" alt="Breadboard prototype" width="500"/>
+  <img src="scheme.jpg" alt="Breadboard prototype" width="500"/>
 </p>
 
 ## Prototype
 
 <p align="center">
-  <img src="images/breadboard.jpg" alt="Breadboard prototype" width="500"/>
+  <img src="breadboard.jpg" alt="Breadboard prototype" width="500"/>
 </p>
 
 ## Final product
 
 <p align="center">
-  <img src="images/final_product.jpg" alt="Breadboard prototype" width="500"/>
+  <img src="final_product.jpg" alt="Breadboard prototype" width="500"/>
 </p>
 
 ## Features
@@ -59,7 +59,7 @@ The main menu contains:
 Navigation is performed using the rotary encoder.
 
 <p align="center">
-  <img src="images/main_menu.jpg" alt="Measuring results" width="450"/>
+  <img src="main_menu.jpg" alt="Measuring results" width="450"/>
 </p>
 
 
@@ -74,7 +74,7 @@ Measurement process:
 
 
 <p align="center">
-  <img src="images/measuring.jpg" alt="Measuring results" width="450"/>
+  <img src="measuring.jpg" alt="Measuring results" width="450"/>
 </p>
 
 
@@ -94,7 +94,7 @@ Data is stored using ESP32 `Preferences` memory.
 Some of the measuring results:
 
 <p align="center">
-  <img src="images/history.jpg" alt="Measuring results" width="450"/>
+  <img src="history.jpg" alt="Measuring results" width="450"/>
 </p>
 
 
@@ -108,7 +108,7 @@ The following parameters can be configured:
 
 
 <p align="center">
-  <img src="images/settings.jpg" alt="Measuring results" width="450"/>
+  <img src="settings.jpg" alt="Measuring results" width="450"/>
 </p>
 
 
@@ -173,7 +173,8 @@ float calculation = 104 - 17 * R;
     - U8g2
 
 3. Upload the Code
-
+# Authors:
+Ivona Pranjić & Marta Dasović, 2025./2026.
 ## Note
 
 This project is intended for educational purposes only and is not a medically certified device.
